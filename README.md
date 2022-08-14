@@ -1,4 +1,6 @@
-# Joins-Off-Bypassed-v2
-A Joins Off extension for Opera GX That lets you join your friends even if there Joins Are Off.
+#TradeBotV2, ChoppaaW
+Trade Bot, send op trades to people until accepted, 90% work rate.
 
-tutorial on how to use - https://streamable.com/ipc0e1
+Tutorial on how to use - 
+
+----------------------------------S/O Dev For helpin me with Scripting
